@@ -1,0 +1,19 @@
+<html lang="pl">
+<head>
+  <meta charset="utf-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.css">
+  <link href="https://fonts.googleapis.com/css?family=Anton" rel="stylesheet">
+  <link rel="stylesheet" href="simple-footer.css" type="text/css">
+  <title>Sticky footer calc</title>
+  </head>
+  <body>
+  <div class="wrapper">
+    <main class="content">
+      <span>content</span>
+    </main>
+    <footer class="footer">
+      <span>footer</span>
+    </footer>
+  </div>
+</body>
